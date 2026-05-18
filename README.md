@@ -2,7 +2,7 @@
 
 v1.0.0 (in development)
 
-Author: Nean
+By Nean
 
 #### Video Demo: <URL HERE>
 
@@ -66,10 +66,10 @@ Possible future features include:
 - GUI version;
 - undo operation support.
 
-## Author
-
-By Nean
-
 ## Version
 
 v1.0.0 (in development)
+
+## Author
+
+By Nean
