@@ -72,4 +72,4 @@ v1.0.0 (in development)
 
 ## Author
 
-By Nean
+Nean
